@@ -1,0 +1,10 @@
+[[source]]
+
+url = "https://tic-tac-danya.herokuapp.com/"
+verify_ssl = true
+
+
+
+[requires]
+
+python_version = "3.6.4"
